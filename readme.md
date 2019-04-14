@@ -1,4 +1,4 @@
-##Triomino Tiling
+## Triomino Tiling
 #### python3
 run `python3 tiomino_tiling.py`
 
